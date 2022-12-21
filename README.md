@@ -6,7 +6,7 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=kartikj360&style=flat-square&color=blue" alt=""></p>
 <h1 align="center">Hey there !! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 <p align="center"><img src="https://github.com/kartikj360/kartikj360/blob/main/assets/logo%20primary.jpeg" width="600" height="300"  /></p>
-<p align="center" >Spending my days to wander for clean and processable data...But I wish that exist... :(</p>
+<p align="center" >Spending my days for the search of clean and non-missing data...But I wish that exist... :(</p>
 </p>
 
 ---
