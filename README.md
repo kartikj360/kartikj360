@@ -3,16 +3,12 @@
 <!-- <p align="center">
 <a href="https://www.linkedin.com/in/kartik-j-136359207"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p> -->
-
 <p align="center"><img src="https://komarev.com/ghpvc/?username=kartikj360&style=flat-square&color=blue" alt=""></p>
-
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-
 <p align="center"><img src="https://github.com/kartikj360/kartikj360/blob/main/assets/logo%20primary.jpeg" width="600" height="300"  /></p>
 <b>Spending my days to wander for clean and processable data...But I wish that exist... :(</b>
 </p>
 <br>
-
 
 ---
 
@@ -25,10 +21,8 @@ I am a Data Science Aspirant <img src="https://media.giphy.com/media/WUlplcMpOCE
 - ⚡ In my free time I solve sudoko and read tech articles.
 
 
-<br>
-<br>
-
 ---
+
 
 **✨ Tech stacks currently using** <br>
 <br>
@@ -37,8 +31,7 @@ I am a Data Science Aspirant <img src="https://media.giphy.com/media/WUlplcMpOCE
 <code><a href="https://jupyter.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
 <code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
 <code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
-<br>
-<br>
+
 
 ---
 
@@ -64,14 +57,13 @@ I am a Data Science Aspirant <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 ---
 
-<br>
-<br>
+
 **🌱 Looking forward to learn:** <br>
 <br>
 <code><a href="https://cloud.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></a></code>
 <code><a href="https://aws.amazon.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
-<br>
-<br>
+
+
 
 ---
 
