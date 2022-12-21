@@ -34,16 +34,16 @@
 <br>
 <br> 
   <a href="https://www.linkedin.com/in/kartik-j-136359207" target="_blank">
-   <img align="left" alt="Kartik Joshi | Linkedin" width="24px" src="https://github.com/kartikj360/kartikj360/blob/main/Linkedin.svg" />
+   <img align="left" alt="Kartik Joshi | Linkedin" width="24px" src="https://github.com/kartikj360/kartikj360/blob/main/assets/Linkedin.svg" />
   </a>
   <a href="mailto:kartikjoshi0172.com" target="_blank">
-    <img align="left" alt="Kartik Joshi | Gmail" width="26px" src="https://github.com/kartikj360/kartikj360/blob/main/Gmail.svg" />
+    <img align="left" alt="Kartik Joshi | Gmail" width="26px" src="https://github.com/kartikj360/kartikj360/blob/main/assets/Gmail.svg" />
   </a>
   <a href="https://twitter.com/KartikJ365" target="_blank">
-    <img align="left" alt="Kartik Joshi | Twitter" width="26px" src="https://github.com/kartikj360/kartikj360/blob/main/Twitter.svg" />
+    <img align="left" alt="Kartik Joshi | Twitter" width="26px" src="https://github.com/kartikj360/kartikj360/blob/main/assets/Twitter.svg" />
   </a>
   <a href="https://www.instagram.com/bepositivekartik/" target="_blank">
-    <img align="left" alt="Kartik Joshi | Instagram" width="24px" src="https://github.com/kartikj360/kartikj360/blob/main/Instagram.svg"  />
+    <img align="left" alt="Kartik Joshi | Instagram" width="24px" src="https://github.com/kartikj360/kartikj360/blob/main/assets/Instagram.svg"  />
   </a>
  
 
