@@ -1,5 +1,5 @@
 
-<h1> Hi there..! <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="29px"> </h1>
+<h1> Hi there..! <img src="https://github.com/kartikj360/kartikj360/blob/main/Hi.gif" width="29px"> </h1>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=kartikj360 alt=kartikj360> </p>
 
 **🔭 I’m currently working on Data Classfication Project
@@ -31,23 +31,21 @@
 <br>
 <br> 
   <a href="https://www.linkedin.com/in/kartik-j-136359207" target="_blank">
-   <img align="left" alt="Piyush Pravin | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
+   <img align="left" alt="Kartik Joshi | Linkedin" width="24px" src="https://github.com/kartikj360/kartikj360/blob/main/Linkedin.svg" />
   </a>
   <a href="mailto:kartikjoshi0172.com" target="_blank">
-    <img align="left" alt="Kartik Joshi | Gmail" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg" />
+    <img align="left" alt="Kartik Joshi | Gmail" width="26px" src="https://github.com/kartikj360/kartikj360/blob/main/Gmail.svg" />
   </a>
   <a href="https://twitter.com/KartikJ365" target="_blank">
-    <img align="left" alt="Kartik Joshi | Twitter" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Twitter.svg" />
+    <img align="left" alt="Kartik Joshi | Twitter" width="26px" src="https://github.com/kartikj360/kartikj360/blob/main/Twitter.svg" />
   </a>
   <a href="https://www.instagram.com/bepositivekartik/" target="_blank">
-    <img align="left" alt="Kartik Joshi | Instagram" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Instagram.svg"  />
+    <img align="left" alt="Kartik Joshi | Instagram" width="24px" src="https://github.com/kartikj360/kartikj360/blob/main/Instagram.svg"  />
   </a>
  
 
 
-<!--
 **Visitor Count :**
 <br>
 
 ![Visitor Count](https://profile-counter.glitch.me/{kartikj360}/count.svg) 
--->
