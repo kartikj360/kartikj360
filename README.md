@@ -12,7 +12,8 @@
 <b>Spending my days to wander for clean and processable data...But I wish that exist... :(</b>
 </p>
 <br>
-<br>
+
+
 ---
 
 
@@ -22,7 +23,11 @@ I am a Data Science Aspirant <img src="https://media.giphy.com/media/WUlplcMpOCE
 - 🔭 I’m currently working on Data Classfication Project
 - 🌱 I’m currently learning Deep Learning**
 - ⚡ In my free time I solve sudoko and read tech articles.
+
+
 <br>
+<br>
+
 ---
 
 **✨ Tech stacks currently using** <br>
@@ -36,6 +41,7 @@ I am a Data Science Aspirant <img src="https://media.giphy.com/media/WUlplcMpOCE
 <br>
 
 ---
+
 🛠 &nbsp;Languages and Tools :
 
 <p>
@@ -57,6 +63,7 @@ I am a Data Science Aspirant <img src="https://media.giphy.com/media/WUlplcMpOCE
 </p>
 
 ---
+
 <br>
 <br>
 **🌱 Looking forward to learn:** <br>
@@ -67,6 +74,7 @@ I am a Data Science Aspirant <img src="https://media.giphy.com/media/WUlplcMpOCE
 <br>
 
 ---
+
 ![My Github stats](https://github-readme-stats.vercel.app/api?username=kartikj360&show_icons=true&hide_border=true)
 <br>
 <br>
@@ -88,6 +96,7 @@ I am a Data Science Aspirant <img src="https://media.giphy.com/media/WUlplcMpOCE
   </a>
  
 ---
+
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kartikj360&theme=dark&background=000000)](https://git.io/streak-stats)
 
