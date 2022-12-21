@@ -1,3 +1,9 @@
+<p align="center">
+<img src="https://github.com/wanderindev/wanderindev/blob/master/assets/about-cover.png" />
+<b>Spending my days to wander for clean and processable data...But I wish that exist... :(</b>
+</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp;</p>
 
 <h1> Hi there..! <img src="https://github.com/kartikj360/kartikj360/blob/main/Hi.gif" width="29px"> </h1>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=kartikj360 alt=kartikj360> </p>
@@ -13,7 +19,6 @@
 <code><a href="https://jupyter.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
 <code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
 <code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
-<code><a href="https://www.sqlite.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></a></code>
 <br>
 <br>
 <br>
