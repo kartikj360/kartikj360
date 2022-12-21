@@ -19,7 +19,7 @@ I am a Data Science Aspirant <img src="https://media.giphy.com/media/WUlplcMpOCE
 - 🔭 I’m currently working on Data Classfication Project
 - 🌱 I’m currently learning Deep Learning**
 - ⚡ In my free time I solve sudoko and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-j-136359207)
+
 
 <br>
 <br>
