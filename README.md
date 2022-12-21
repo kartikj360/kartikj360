@@ -1,4 +1,4 @@
-<p align="center"><img src="https://giphy.com/gifs/talk-dirty-to-me-similarweb-nerdy-SvckSy7fFviqrq8ClF" width="100"/></p>
+<p align="center"><img src="https://media2.giphy.com/media/SvckSy7fFviqrq8ClF/giphy.gif?cid=790b761124c498ad5461ae9abfa38affa21966f260969a0b&rid=giphy.gif&ct=g" width="100"/></p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/kartik-j-136359207"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
