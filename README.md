@@ -1,6 +1,6 @@
 
 <h1> Hi there..! <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="29px"> </h1>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=piyushP7pravin alt=piyushP7pravin> </p>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=kartikj360 alt=kartikj360> </p>
 
 **🔭 I’m currently working on Data Classfication Project
 **🌱 I’m currently learning Deep Learning**
