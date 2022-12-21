@@ -4,9 +4,9 @@
 <a href="https://www.linkedin.com/in/kartik-j-136359207"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p> -->
 <p align="center"><img src="https://komarev.com/ghpvc/?username=kartikj360&style=flat-square&color=blue" alt=""></p>
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center">Hey there !! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 <p align="center"><img src="https://github.com/kartikj360/kartikj360/blob/main/assets/logo%20primary.jpeg" width="600" height="300"  /></p>
-<b>Spending my days to wander for clean and processable data...But I wish that exist... :(</b>
+<b align="center" >Spending my days to wander for clean and processable data...But I wish that exist... :(</b>
 </p>
 
 ---
