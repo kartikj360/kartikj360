@@ -11,7 +11,8 @@
 <p align="center"><img src="https://github.com/kartikj360/kartikj360/blob/main/assets/logo%20primary.jpeg" width="600" height="300"  /></p>
 <b>Spending my days to wander for clean and processable data...But I wish that exist... :(</b>
 </p>
-
+<br>
+<br>
 ---
 
 
@@ -21,11 +22,7 @@ I am a Data Science Aspirant <img src="https://media.giphy.com/media/WUlplcMpOCE
 - 🔭 I’m currently working on Data Classfication Project
 - 🌱 I’m currently learning Deep Learning**
 - ⚡ In my free time I solve sudoko and read tech articles.
-
-
 <br>
-<br>
-
 ---
 
 **✨ Tech stacks currently using** <br>
