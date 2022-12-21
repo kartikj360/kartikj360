@@ -2,8 +2,6 @@
 <img src="https://github.com/kartikj360/kartikj360/blob/main/assets/logo%20primary.jpeg" />
 <b>Spending my days to wander for clean and processable data...But I wish that exist... :(</b>
 </p>
-<p align="center">&nbsp;</p>
-<p align="center">&nbsp;</p>
 
 <h1> Hi there..! <img src="https://github.com/kartikj360/kartikj360/blob/main/Hi.gif" width="29px"> </h1>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=kartikj360 alt=kartikj360> </p>
