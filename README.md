@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/wanderindev/wanderindev/blob/master/assets/about-cover.png" />
+<img src="https://github.com/kartikj360/kartikj360/blob/main/assets/logo%20primary.jpeg" />
 <b>Spending my days to wander for clean and processable data...But I wish that exist... :(</b>
 </p>
 <p align="center">&nbsp;</p>
